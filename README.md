@@ -15,3 +15,6 @@ If you want more details about the model and how does it work, you can find it o
 
 # Feature Importance
 ![Feature Importance](https://github.com/medAli-ai/Veolia-Challenge-2022/blob/main/images/Feature%20Importance.png)
+
+# Feature Masks
+![Feature Masks](https://github.com/medAli-ai/Veolia-Challenge-2022/blob/main/images/Feature%20Importance.png)
