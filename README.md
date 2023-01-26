@@ -11,4 +11,4 @@ If you want more details about the model and how does it work, you can find it o
 ![Train Loss](https://github.com/medAli-ai/Veolia-Challenge-2022/blob/main/images/Train%20Loss.png)
 
 # Valid MSE
-![Valid MSE](https://github.com/medAli-ai/Veolia-Challenge-2022/blob/main/images/Train%20Loss.png)
+![Valid MSE](https://github.com/medAli-ai/Veolia-Challenge-2022/blob/main/images/Valid%20metric.png)
