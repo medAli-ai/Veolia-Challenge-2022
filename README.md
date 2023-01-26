@@ -8,4 +8,4 @@ You can find link of the code here: https://www.kaggle.com/code/medali1992/veoli
 
 If you want more details about the model and how does it work, you can find it on the attached slides (pdf).
 # Train Loss
-![Train Loss](/Images/Train Loss.png)
+![Train Loss](Images/Train Loss.png)
